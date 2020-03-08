@@ -12,8 +12,8 @@ package T3N2;
 public class T3N2 {
     
     public static void main(String[] args) {
-        System.out.println(Acker(3,4));
-        System.out.println(Acker(2,5));
+        System.out.println(Acker(3,4));// Ans : 125
+        System.out.println(Acker(2,5));// Ans : 13
     }
     
     public static int Acker(int m,int n){
